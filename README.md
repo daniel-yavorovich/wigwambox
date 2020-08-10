@@ -87,6 +87,6 @@ All you need to do is just find a suitable box (or laser cut a red [Indian case]
 ## Software
 
 And of course, the heart of Wigwamos is software.
-You can find detailed instructions on how to prepare the software and the application itself in the [wigwamos](../wigwamos) repository
+You can find detailed instructions on how to prepare the software and the application itself in the WigwamOS repository
 
 Happy growing!
