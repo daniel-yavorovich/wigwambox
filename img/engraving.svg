@@ -13,7 +13,7 @@
    height="1220mm"
    width="1220mm"
    inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   sodipodi:docname="box.svg">
+   sodipodi:docname="gravirovka.svg">
   <defs
      id="defs8491">
     <clipPath
@@ -4024,7 +4024,7 @@
      inkscape:label="резка"
      inkscape:groupmode="layer"
      id="layer1"
-     style="display:inline">
+     style="display:none">
     <g
        id="g10019"
        inkscape:label="floor"
