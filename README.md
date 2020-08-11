@@ -1,5 +1,7 @@
 # WigwamBox
 
+![logo](./img/logo.jpg) 
+
 WigwamBox is a smart growbox that completely automates the growing process.
 
 It is a completely open source solution that you can assemble at home without deep technical knowledge.
