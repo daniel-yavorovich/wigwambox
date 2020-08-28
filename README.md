@@ -83,7 +83,7 @@ All you need to do is just find a suitable box (or laser cut a red [Indian case]
 | Dev   | PI  |
 |-------|:---:|
 | +     | 1   |
-| OUT   | 7   |
+| OUT   | 29   |
 | -     | 6  |
 
 ## Software
